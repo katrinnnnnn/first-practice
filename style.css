@@ -19,14 +19,6 @@ html {
   
 
 
-@media screen and (max-width: 1024px) {
- body {font-size:85%;}
-}
-
-@media screen and (min-width: 1280px) {
- body {font-size: 100%;}
-
-
 body{
     font-family: 'Montserrat', sans-serif;
     
